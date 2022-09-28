@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 506249559
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b47f53404ce28e7d9f866c29cd9b029
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fee1c6e80ce93dc43c78a279afa71396
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetsForBE/final/vehicles/vehicle_1.prefab
+Dependencies: []
