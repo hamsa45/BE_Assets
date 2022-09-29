@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 2956973236
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: beton-wall-block
+      Dependencies: {}
+    Info_1:
+      Name: entrance
+      Dependencies: {}
+    Info_2:
+      Name: gun1
+      Dependencies: {}
+    Info_3:
+      Name: pistol
+      Dependencies: {}
+    Info_4:
+      Name: tower
+      Dependencies: {}
+    Info_5:
+      Name: troopwall
+      Dependencies: {}
+    Info_6:
+      Name: wall long
+      Dependencies: {}
+    Info_7:
+      Name: wall1
+      Dependencies: {}
+    Info_8:
+      Name: wall3d
+      Dependencies: {}
+    Info_9:
+      Name: wall_corner
+      Dependencies: {}
+    Info_10:
+      Name: wall_pier
+      Dependencies: {}
+    Info_11:
+      Name: wall_straight
+      Dependencies: {}
+    Info_12:
+      Name: wall_straight_small
+      Dependencies: {}
+    Info_13:
+      Name: wall_vr
+      Dependencies: {}
