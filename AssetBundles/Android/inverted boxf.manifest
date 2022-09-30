@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 946717107
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f283919db35e892075e7475b3eab4b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e7e96e7d346277352c91e4d812b003ae
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetsSF/fbx's/Inverted boxF.prefab
+Dependencies: []

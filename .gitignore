@@ -84,6 +84,12 @@ Assets/Scenes/Scenes/SignInSettings.lighting
 Assets/Scenes/Scenes/SignInSettings.lighting.meta
 Assets/Scenes/Scenes/PublicGameSelectionSettings.lighting.meta
 Assets/3rd Party Assets/enableNavigationBehavior.cs.meta
+
+#
+* ArtifactDB
 Library/ArtifactDB
+Library/ArtifactDB-lock
+*.db
+*.log
 Library/ArtifactDB
-Library/ArtifactDB
+Library/ArtifactDB-lock
