@@ -58,13 +58,13 @@
   <ItemGroup>
     <Compile Include="Assets\blockengine\test_scripts\nullifyForceScript.cs" />
     <Compile Include="Assets\blockengine\test_scripts\addForce.cs" />
+    <Compile Include="Assets\BrokenVector\LowPolyBrickHouses\Scripts\ModelCustomizer.cs" />
     <Compile Include="Assets\characters\Supercyan Character Pack Free Sample\Scripts\DemoFree.cs" />
     <Compile Include="Assets\characters\Supercyan Character Pack Free Sample\Scripts\SimpleSampleCharacterControl.cs" />
     <Compile Include="Assets\SkythianCat\Glowing_Forest\Scripts\WaterGroup.cs" />
     <Compile Include="Assets\blockengine\prefab\agggg.cs" />
     <Compile Include="Assets\blockengine\playanimation.cs" />
     <Compile Include="Assets\characters\Supercyan Character Pack Free Sample\Scripts\FreeCameraLogic.cs" />
-    <Compile Include="Assets\BrokenVector\LowPolyBrickHouses\Scripts\ModelCustomizer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\blockengine\TextMesh Pro\Shaders\TMPro.cginc" />

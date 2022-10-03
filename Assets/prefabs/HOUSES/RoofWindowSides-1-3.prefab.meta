@@ -1,12 +1,5 @@
 fileFormatVersion: 2
-guid: 67da265d0dd6d8841ab4f61bc0c088f4
-labels:
-- Cartoon
-- Desert
-- Lowpoly
-- Plant
-- Terrain
-- Vegetation
+guid: b3c3375e2e9415343b3f2fb74e3e44b4
 PrefabImporter:
   externalObjects: {}
   userData: 

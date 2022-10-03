@@ -7,10 +7,8 @@ labels:
 - Plant
 - Terrain
 - Vegetation
-timeCreated: 1554712924
-licenseType: Store
-NativeFormatImporter:
-  mainObjectFileID: 100100000
+PrefabImporter:
+  externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
